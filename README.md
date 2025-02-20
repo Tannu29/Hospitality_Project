@@ -1,6 +1,8 @@
 # Hospitality_Project
 Create a power bi dashboard of hotels data
+
 Summary
+
 •	Revenue insights
 Top earning hotels: Atliq Exotica (Mumbai) (212M) and Atliq Palace (Mumbai) (102 M) generate the highest revenue.
 Revenue by room class: Room class Elite generated the highest revenue.
@@ -9,7 +11,7 @@ Revenue gap: There is noticeable gap between generated revenue and realized reve
 
 •	Occupancy trends
 Atliq Blu and Atliq Palace show higher booking volumes, while Atliq Seasons has lower occupancy.
-
+https://github.com/Tannu29/Hospitality_Project/edit/main/README.md
 •	Average Rating
 Atliq Blu (3.39) has highest average rating while the Atliq seasons have the lowest average rating (2.29).
 

@@ -22,6 +22,7 @@ Highest cancellations are in Atliq Palace and Atliq Grands.
 This suggests potential customer dissatisfaction or flexible cancellation policies.
 
 Insights
+
 •	High gap between generated and realized revenue suggests a need for better retention policies and reduced cancellations
 
 •	Hotels with high cancellations might need policy or customer services improvements.

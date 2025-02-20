@@ -23,7 +23,10 @@ This suggests potential customer dissatisfaction or flexible cancellation polici
 
 Insights
 •	High gap between generated and realized revenue suggests a need for better retention policies and reduced cancellations
+
 •	Hotels with high cancellations might need policy or customer services improvements.
+
 •	Some hotels with lower rating still see high bookings, suggesting customer demands outweigh experience.
+
 •	Increase direct online bookings to cut down platform fees.
 
